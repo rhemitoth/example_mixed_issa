@@ -24,5 +24,5 @@ install.packages(setdiff(required_packages, installed.packages()[, "Package"]))
 - As input, this script reads in the RData file generated in step 1. 
 - This script sources Load_NDVI.R to load the NDVI data and  Load_Human_Settlement.R to load the human settlement data.
 - As output, this script saves an RData file of used and available steps with the covariates extracted.
-3) **
-
+3) **Fit mixed iSSAs to the data by running model_fitting.R.**
+- As input, this script reads in the RData file that was generated in step 2.
