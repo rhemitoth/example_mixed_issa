@@ -10,7 +10,7 @@
 ##
 ## ---------------------------
 ##
-## Notes:
+## Notes: The script extacts the covaraites for the used and available steps.
 ##   
 ##
 ## ---------------------------

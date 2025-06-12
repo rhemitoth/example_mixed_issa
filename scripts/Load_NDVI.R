@@ -10,7 +10,7 @@
 ##
 ## ---------------------------
 ##
-## Notes:
+## Notes: This script loads the NDVI data into R
 ##   
 ##
 ## ---------------------------

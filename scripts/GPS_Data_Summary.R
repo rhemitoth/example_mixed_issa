@@ -10,7 +10,8 @@
 ##
 ## ---------------------------
 ##
-## Notes: This script summarized the GPS data from the Eurodeer Database
+## Notes: This script summarized the GPS data. It is also used to divide the GPS dataset into the
+## pre and post wolf periods
 ##   
 ##
 ## ---------------------------

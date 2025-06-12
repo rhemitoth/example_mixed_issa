@@ -10,7 +10,7 @@
 ##
 ## ---------------------------
 ##
-## Notes:
+## Notes: This script loads the human settlement data into R
 ##   
 ##
 ## ---------------------------

@@ -1,6 +1,6 @@
 ## ---------------------------
 ##
-## Script name: Used and available points from the pre wolf period
+## Script name: Used Avail Prewolf
 ##
 ## Author: Rhemi Toth
 ##
@@ -10,7 +10,7 @@
 ##
 ## ---------------------------
 ##
-## Notes:
+## Notes: This script generates the used and available steps for the pre-wolf dataset
 ##   
 ##
 ## ---------------------------
